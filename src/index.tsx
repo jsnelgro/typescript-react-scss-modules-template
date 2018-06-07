@@ -2,7 +2,7 @@ import * as React from 'react'
 import { render } from 'react-dom'
 
 // custom components
-import Button from './components/Button'
+import Button from './components/Button/Button'
 
 
 const App = () => (
